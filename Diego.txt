@@ -1,2 +1,2 @@
-Hola Diego
 Hare opciones de tarjetas
+Nuevas implmentaciones del pie de pagina
